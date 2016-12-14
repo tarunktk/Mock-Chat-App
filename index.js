@@ -25,6 +25,7 @@ function handler1() {
     Tera.value = "";
 
 
+
 }
 
 function handler2() {
